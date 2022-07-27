@@ -8,7 +8,7 @@ RUN apt-get update && \
   webp && \
   apt-get upgrade -y && \
   rm -rf /var/lib/apt/lists/*
-RUN npm install --location=global npm@8.13.2
+RUN npm install --location=global npm@8.15.0
 RUN npm install --location=global nodemon 
 RUN npm --omit=dev install
 RUN npm install --location=global chalk
