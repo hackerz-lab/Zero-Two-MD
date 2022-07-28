@@ -5,7 +5,7 @@
   "main": "franxx.js",
   "type": "commonjs",
    "nodemonConfig": {
-    "ignore": ["/root/SamPandey001/*"],
+    "ignore": ["/root/hackerz-lab/*"],
     "delay": 5000
   }, 
 "scripts": {
@@ -85,10 +85,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SamPandey001/Zero-Two-Md.git"
+    "url": "git+https://github.com/hackerz-lab/Zero-Two-Md.git"
   },
   "bugs": {
-    "url": "https://github.com/SamPandey001/Zero-Two-Md/issues"
+    "url": "https://github.com/hackerz-lab/Zero-Two-Md/issues"
   },
-  "homepage": "https://github.com/SamPandey001/Zero-Two-Md#readme"
+  "homepage": "https://github.com/hackerz-lab/Zero-Two-Md#readme"
 }
