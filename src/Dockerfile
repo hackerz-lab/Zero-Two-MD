@@ -8,6 +8,7 @@ RUN apt-get update && \
   rm -rf /var/lib/apt/lists/*
 RUN npm install --location=global npm@8.13.2
 RUN npm install --location=global nodemon 
+RUN npm -g i forever
 RUN npm --omit=dev install
 RUN npm install --location=global chalk
 RUN npm i cfonts
