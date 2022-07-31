@@ -45,7 +45,8 @@ global.ownername = process.env.ownername || 'Martin Saji' //owner name
 global.packname = 'Zero-Two' //sticker package name
 global.author = 'Dont Steal' //sticker author name
 global.sessionNamew = 'session.sam'
-global.sessionName = process.env.SESSION_ID || 'S3phaUE4Y0E='
+global.sessionName = process.env.SESSION_ID || '
+'
 global.zerotwo = "https://github.com/hackerz-lab/Zero-Two-MD" //ur gc link
 global.zerotwo2 = "https://github.com/hackerz-lab/Zero-Two-MD" //ur gc link2
 global.websitex = "https://ZeroTwoMd.tech" //ur website
